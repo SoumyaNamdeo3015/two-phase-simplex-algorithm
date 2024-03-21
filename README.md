@@ -12,7 +12,7 @@
 #### at last matrix c (cost vector) is entered.
 
 
-### the input file name must be input.txt 
+#### note:the input file name must be input.txt 
 
 ### about the code :
 

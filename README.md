@@ -1,8 +1,9 @@
 # two-phase-simplex-algorithm
 
-### about the alogrithm -- https://en.wikipedia.org/wiki/Simplex_algorithm
+### about the alogrithm :
+#### refer to this link https://en.wikipedia.org/wiki/Simplex_algorithm
 
-### about input.txt
+### about input.txt :
 #### The first two lines of input file contains the type of linear programming problem i.e maximizing or minimizing of the objective function.
 
 #### Then it contains matirx A , followed by matrix b .
@@ -16,9 +17,9 @@
 
 ### about the code :
 
-#### code contains a single function named simplex_algo : 
+#### code contains a single function named simplex_algo.
 
-#### the return type of this function is a dictionary as follows :
+#### the return type of this function is a dictionary as follows :-
 
 ####        key           --->         values
 #### 1. initial_tableau  ::           stores initial tableau

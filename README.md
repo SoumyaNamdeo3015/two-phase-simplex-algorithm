@@ -21,11 +21,11 @@
 #### the return type of this function is a dictionary as follows :
 
 ####        key           --->         values
-#### 1. initial_tableau             stores initial tableau
-#### 2. fina_tableau                stores final tableau
-#### 3. solution_status             stores the status of the solution (either 'unbounded', 'optimal', or 'infeasible')
-#### 4. optimal_solution            stores optimal solution vector as a python list
-#### 5. optimal_value               stores the cost at optimal solution vector
+#### 1. initial_tableau  ::           stores initial tableau
+#### 2. fina_tableau  ::                stores final tableau
+#### 3. solution_status  ::             stores the status of the solution (either 'unbounded', 'optimal', or 'infeasible')
+#### 4. optimal_solution  ::            stores optimal solution vector as a python list
+#### 5. optimal_value  ::               stores the cost at optimal solution vector
 
 
 

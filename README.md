@@ -1,9 +1,9 @@
 # two-phase-simplex-algorithm
 
-### about the alogrithm :
+### About the alogrithm :
 #### refer to this link https://en.wikipedia.org/wiki/Simplex_algorithm
 
-### about input.txt :
+### About input.txt :
 #### The first two lines of input file contains the type of linear programming problem i.e maximizing or minimizing of the objective function.
 
 #### Then it contains matirx A , followed by matrix b .
@@ -15,9 +15,9 @@
 
 #### note:the input file name must be input.txt 
 
-### about the code :
+### About main.py :
 
-#### code contains a single function named simplex_algo.
+#### main.py contains a single function named simplex_algo.
 
 #### the return type of this function is a dictionary as follows :-
 
